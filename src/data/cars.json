@@ -1,0 +1,167 @@
+[
+  {
+    "id": 1,
+    "brand": "Maruti Suzuki",
+    "model": "Swift",
+    "year": 2023,
+    "seats": 5,
+    "fuelType": "Petrol",
+    "pricePerDay": 2900,
+    "image": "https://www.autovista.in/assets/product_images/gallery/new-all-new-swift-front.jpg",
+    "available": true
+  },
+  {
+    "id": 2,
+    "brand": "Maruti Suzuki",
+    "model": "Baleno",
+    "year": 2024,
+    "seats": 5,
+    "fuelType": "Petrol",
+    "pricePerDay": 3300,
+    "image": "https://c.ndtvimg.com/2025-02/9li52pt_maruti-suzuki-baleno_625x300_10_February_25.jpg?im=FitAndFill,algorithm=dnn,width=773,height=435",
+    "available": false
+  },
+  {
+    "id": 3,
+    "brand": "Maruti Suzuki",
+    "model": "Ertiga",
+    "year": 2023,
+    "seats": 7,
+    "fuelType": "Petrol",
+    "pricePerDay": 4100,
+    "image": "https://www.popularmaruti.com/storage/upload/vehicle/colors/1650456604_prime-oxford-blue.png",
+    "available": true
+  },
+  {
+    "id": 4,
+    "brand": "Tata",
+    "model": "Nexon",
+    "year": 2024,
+    "seats": 5,
+    "fuelType": "Diesel",
+    "pricePerDay": 3700,
+    "image": "https://auto.hindustantimes.com/_next/image?url=https%3A%2F%2Fimages.hindustantimes.com%2Fauto%2Fauto-images%2FTata%2FNexonEVPrime%2Fexterior_tata-nexon-ev-prime_front-left-side_600x400.jpg&w=1920&q=75",
+    "available": false
+  },
+  {
+    "id": 5,
+    "brand": "Tata",
+    "model": "Harrier",
+    "year": 2023,
+    "seats": 5,
+    "fuelType": "Diesel",
+    "pricePerDay": 4500,
+    "image": "https://www.v3cars.com/media/model-imgs/1697175934-tata-harrier-facelift.webp",
+    "available": true
+  },
+  {
+    "id": 6,
+    "brand": "Tata",
+    "model": "Punch",
+    "year": 2024,
+    "seats": 5,
+    "fuelType": "Petrol",
+    "pricePerDay": 3200,
+    "image": "https://stimg.cardekho.com/images/carexteriorimages/930x620/Tata/Punch/10681/1691392713058/front-left-side-47.jpg?imwidth=890&impolicy=resize",
+    "available": false
+  },
+  {
+    "id": 7,
+    "brand": "Mahindra",
+    "model": "Thar",
+    "year": 2024,
+    "seats": 4,
+    "fuelType": "Diesel",
+    "pricePerDay": 5800,
+    "image": "https://stimg.cardekho.com/images/carexteriorimages/930x620/Mahindra/Thar-ROXX/8438/1723692413550/front-left-side-47.jpg?imwidth=890&impolicy=resize",
+    "available": true
+  },
+  {
+    "id": 8,
+    "brand": "Mahindra",
+    "model": "XUV700",
+    "year": 2023,
+    "seats": 7,
+    "fuelType": "Diesel",
+    "pricePerDay": 5400,
+    "image": "https://auto.hindustantimes.com/_next/image?url=https%3A%2F%2Fcatalog-management.s3.ap-south-1.amazonaws.com%2Fhtmobile1%2Fmahindra_xuv700%2Fimages%2Fexterior_mahindra-xuv700_front-left-side_600x400_01.jpg&w=3840&q=75",
+    "available": false
+  },
+  {
+    "id": 9,
+    "brand": "Mahindra",
+    "model": "Scorpio-N",
+    "year": 2024,
+    "seats": 7,
+    "fuelType": "Diesel",
+    "pricePerDay": 5000,
+    "image": "https://imgd.aeplcdn.com/370x208/n/cw/ec/40432/scorpio-n-exterior-right-front-three-quarter-75.jpeg?isig=0&q=80",
+    "available": true
+  },
+  {
+    "id": 10,
+    "brand": "Hyundai",
+    "model": "Creta",
+    "year": 2024,
+    "seats": 5,
+    "fuelType": "Petrol",
+    "pricePerDay": 4100,
+    "image": "https://www.hyundai.com/content/dam/hyundai/in/en/data/find-a-car/Creta/360/abyss-black/pc/abyss-black_5.png",
+    "available": true
+  },
+  {
+    "id": 11,
+    "brand": "Hyundai",
+    "model": "Venue",
+    "year": 2023,
+    "seats": 5,
+    "fuelType": "Diesel",
+    "pricePerDay": 3500,
+    "image": "https://www.carandbike.com/_next/image?url=https%3A%2F%2Fc.ndtvimg.com%2F2019-05%2F00tk2ic8_hyundai-venue_650x400_03_May_19.jpg&w=1920&q=75",
+    "available": false
+  },
+  {
+    "id": 12,
+    "brand": "Hyundai",
+    "model": "i20",
+    "year": 2024,
+    "seats": 5,
+    "fuelType": "Petrol",
+    "pricePerDay": 3200,
+    "image": "https://imgd.aeplcdn.com/370x208/n/cw/ec/150603/i20-exterior-right-front-three-quarter-7.jpeg?isig=0&q=80",
+    "available": true
+  },
+  {
+    "id": 13,
+    "brand": "Honda",
+    "model": "City",
+    "year": 2023,
+    "seats": 5,
+    "fuelType": "Petrol",
+    "pricePerDay": 4500,
+    "image": "https://imgd-ct.aeplcdn.com/664x415/n/cw/ec/134287/city-exterior-right-front-three-quarter-77.jpeg?isig=0&q=80",
+    "available": false
+  },
+  {
+    "id": 14,
+    "brand": "Honda",
+    "model": "Amaze",
+    "year": 2024,
+    "seats": 5,
+    "fuelType": "Diesel",
+    "pricePerDay": 3700,
+    "image": "https://www.hondacarindia.com/_next/image?url=https%3A%2F%2Fwww.hondacarindia.com%2Fweb-data%2Fmodels%2F2024%2FnewAmaze%2Fexterior360Desktop%2FAMAZE_EXT_360_LUNAR_SILVER_METALLIC_V-3__00009%201_chooseCar.png&w=3840&q=75",
+    "available": true
+  },
+  {
+    "id": 15,
+    "brand": "Honda",
+    "model": "WR-V",
+    "year": 2023,
+    "seats": 5,
+    "fuelType": "Petrol",
+    "pricePerDay": 3500,
+    "image": "https://images.yourstory.com/cs/54/51bbc650fc4b11ec863f3b2095783040/FeatureImage-1667467587893.jpg?mode=crop&crop=faces&ar=2%3A1&format=auto&w=1920&q=75",
+    "available": false
+  }
+]
